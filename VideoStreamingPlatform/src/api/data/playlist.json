@@ -1,0 +1,85 @@
+{
+  "item": [{
+    "display_title": "Episode 1",
+    "id": 1164622360,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164631971.jpg",
+    "slug": "sketch_episode_1",
+    "title": "Sketch - Episode 1",
+    "duration": 4639
+  }, {
+    "display_title": "Episode 2",
+    "id": 1164629498,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164631970.jpg",
+    "slug": "sketch_episode_2",
+    "title": "Sketch - Episode 2",
+    "duration": 4549
+  }, {
+    "display_title": "Episode 3",
+    "id": 1164649934,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164654937.jpg",
+    "slug": "sketch_episode_3",
+    "title": "Sketch - Episode 3",
+    "duration": 3997
+  }, {
+    "display_title": "Episode 4",
+    "id": 1164654551,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164660345.jpg",
+    "slug": "sketch_episode_4",
+    "title": "Sketch - Episode 4",
+    "duration": 4282
+  }, {
+    "display_title": "Episode 5",
+    "id": 1164665952,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164671651.jpg",
+    "slug": "sketch_episode_5",
+    "title": "Sketch - Episode 5",
+    "duration": 3808
+  }, {
+    "display_title": "Episode 6",
+    "id": 1164667522,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164671650.jpg",
+    "slug": "sketch_episode_6",
+    "title": "Sketch - Episode 6",
+    "duration": 3799
+  }, {
+    "display_title": "Episode 7",
+    "id": 1164698241,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164699683.jpg",
+    "slug": "sketch_episode_7",
+    "title": "Sketch - Episode 7",
+    "duration": 4408
+  }, {
+    "display_title": "Episode 8",
+    "id": 1164699520,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164699644.jpg",
+    "slug": "sketch_episode_8",
+    "title": "Sketch - Episode 8",
+    "duration": 3791
+  }, {
+    "display_title": "Episode 9",
+    "id": 1164778890,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164778974.jpg",
+    "slug": "sketch_episode_9",
+    "title": "Sketch - Episode 9",
+    "duration": 3787
+  }, {
+    "display_title": "Episode 10",
+    "id": 1164779912,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164780046.jpg",
+    "slug": "sketch_episode_10",
+    "title": "Sketch - Episode 10",
+    "duration": 3649
+  }, {
+    "display_title": "Episode 11",
+    "id": 1164789341,
+    "poster": "https://vuclipi-a.akamaihd.net/p/tthumb400x225/d-1/1164789812.jpg",
+    "slug": "sketch_episode_11",
+    "title": "Sketch - Episode 11",
+    "duration": 3815
+  }],
+  "title": "Sketch",
+  "contenttype": "tvshows",
+  "containertype": "list",
+  "id": "playlist-25583457",
+  "slug": "sketch"
+}

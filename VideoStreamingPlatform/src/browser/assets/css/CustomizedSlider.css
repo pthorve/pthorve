@@ -1,0 +1,21 @@
+.sliderContainerDiv {
+  width: 100%;
+  overflow: scroll;
+  white-space: nowrap;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.sliderContainer::-webkit-scrollbar {
+  width: 10px;
+  color: transparent;
+}
+
+.carousalItem {
+  height: 252px;
+  align-items: center;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
